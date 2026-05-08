@@ -1,9 +1,9 @@
 fastapi
 uvicorn
-pydantic
+python-dotenv
 yfinance
 pandas
 numpy
-python-dotenv
-rich
+scikit-learn
+pytest
 httpx
